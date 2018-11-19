@@ -11,6 +11,10 @@ body {
   box-sizing: inherit;
 }
 
+.img-flex {
+  width: 100%;
+}
+
 .banner {
   position: relative;
   max-height: 500px;
